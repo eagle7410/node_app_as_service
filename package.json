@@ -1,0 +1,21 @@
+{
+  "name": "test_app",
+  "version": "1.0.0",
+  "description": "Use app as linux service",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eagle7410/__REPOSITORY__.git"
+  },
+  "author": "Igor Stcherbina <verycooleagle@gmail.com> (http://github.com/eagle7410)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.16.3"
+  },
+  "bugs": {
+    "url": "https://github.com/eagle7410/__REPOSITORY__/issues"
+  },
+  "homepage": "https://github.com/eagle7410/__REPOSITORY__#readme"
+}
